@@ -1,4 +1,4 @@
-php-assignments
+Php Assignments
 ===============
 
-Php Assignments or Tutorials help ful for freshers
+Php Assignments or Tutorials help full for freshers
